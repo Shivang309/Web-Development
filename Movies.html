@@ -1,0 +1,163 @@
+<html>
+<head>
+  <!-- Latest compiled and minified CSS -->
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet">
+
+<!-- Latest compiled JavaScript -->
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
+<style>
+a:visited {
+    color: green;
+}
+/* selected link */
+a:hover {
+    color: hotpink;
+}
+
+a:active {
+    color: blue;
+}
+div:hover{
+    background-color: blue;
+}
+
+p::first-line {
+  color: #ff0000;
+  font-variant: small-caps;
+}
+
+</style>
+<title>movies.com</title>
+</head>
+<body style="background-color:aqua;">
+  <nav class="navbar navbar-default">
+      <div class="container">
+      <a class="navbar-brand" href="index.html">Websitename</a>
+      <ul class="nav navbar-nav navbar-right">
+        <li class="active"><a href="page1.html">Page 1</a>
+          <a href="page2.html">Page 2</a>
+          <a href="page3.html">Page 3</a></li>
+      </ul>
+    </div>
+  </nav>
+<center>
+<h1 style="color:red; font-size:80;">MOVIESHUB</h1>
+</center>
+<center><img src="C:\Users\DELL\OneDrive\Desktop\movie hub.jpg"></center>
+
+<p style="background-color:powderblue;">
+This website is for all the movie lovers. We bring you the latest movies's details earliest.
+<br>
+Don't forget to have a look on upcoming movies section too.
+</p>
+<h4 style="font-size:30;">NEW MOVIES</h4>
+
+<h4><a href="https://www.imdb.com/title/tt6277462/?ref_=ttls_li_i">1. BRAHMASTRA</a></h4>
+
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.informalnewz.com%2Fwp-content%2Fuploads%2F2022%2F09%2Fbrahmastra_1-sixteen_nine.jpg&f=1&nofb=1&ipt=d80d0e4220e9258561e07c9dc4cd2789c69e3979699a3908b14dc37a9cfc87ed&ipo=images.jpg" width=120 height=150 align:"right">
+
+<div><p>
+Director - Ayan Mukerji<br>
+Writers - Hussain Dalal, Ayan Mukerji<br>
+Stars - Ranbir Kapoor, Alia Bhatt, Amitabh Bachchan<br>
+This is the story of Shiva who sets out in search of love and self-discovery.<br> During his journey, he has to face many evil forces that threaten our existence.</p>
+</div>
+<h4><a href="https://www.imdb.com/title/tt11460992/?ref_=ttls_li_i"> 2. RUNWAY 34</a></h4>
+
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic.cinemagia.ro%2Fimg%2Fresize%2Fdb%2Fmovie%2F30%2F15%2F475%2Frunway-34-682010l-175x0-w-f402330e.jpg&f=1&nofb=1&ipt=3c197ee9a7d7be31b8ce5313167a796eb02b777cc400954180efb566e5036efe&ipo=images.jpg" width=120 height=150 align:"right">
+
+<p>
+Director - Ajay Devgn<br>
+Writers - Sandeep Kewlani, Aamil Keeyan Khan<br>
+Stars - Ajay Devgn, Amitabh Bachchan, Rakul Preet Singh<br>
+Inspired by true incidents, "Runway 34" revolves around Captain Vikrant Khanna<br> played by Ajay Devgn, a flying prodigy, whose flight takes a mysterious course after take-off from an international destination.</p>
+
+<h4><a href="https://www.imdb.com/title/tt11934846/?ref_=ttls_li_i"> 3. BADHAAI DO</a></h4>
+
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fd32qys9a6wm9no.cloudfront.net%2Fimages%2Fmovies%2Fposter%2F57%2F54e6d99960785456ac10ce16ef3e152f_original.jpg%3Ft%3D1540432226&f=1&nofb=1&ipt=f690e91089e795b74504aa36bf29590ad2a00881ecb6bde9213adcc9e3c06e62&ipo=images.jpg" width=120 height=150 align:"right">
+
+<p>
+Director - Harshavardhan Kulkarni<br>
+Writers - Suman Adhikary, Akshat Ghildial, Harshavardhan Kulkarni<br>
+Stars - Rajkummar, RaoBhumi Pednekar, Chum Darang<br>
+Shardul Thakur Flaglot and Suman Singh enter into a marriage of<br> convenience but chaos ensues when her unhinged girlfriend comes to stay with them.</p>
+
+<h4><a href="https://www.imdb.com/title/tt7529298/?ref_=ttls_li_i"> 4. ATTACK</a></h4>
+
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.filmywapzone.com%2Fwp-content%2Fuploads%2F2021%2F06%2FAttack-Movie-2021-Poster-Release-Date-Full-Movie-Watch-Online-Download.jpg&f=1&nofb=1&ipt=0b2ee027741aed85fa7e9839bf1715e7c12b81dceff648ee57a47e561f871f4a&ipo=images.jpg" width=120 height=150 align:"right">
+
+<p>
+Director - Lakshya Raj Anand<br>
+Writers - John Abraham, Lakshya Raj Anand, Sumit Batheja<br>
+Stars - Rakul Preet Singh, John Abraham, Jacqueline Fernandez<br>
+Witness the rise of an army soldier as he realizes his destiny and comes to terms to becoming India's first super<br> soldier created to combat terrorists as he fights his inner demons and outer enemies.With lots of action.</p>
+
+<h4><a href="https://www.imdb.com/title/tt9098938/?ref_=ttls_li_i">5. SHARMAJI NAMKEEN</a></h4>
+
+<img src="https://m.media-amazon.com/images/M/MV5BY2MxNjVlNjMtOGExMi00NWRjLThhYzQtNDY4OWZkMzcwNjhiXkEyXkFqcGdeQXVyMTI1NDEyNTM5._V1_UY209_CR13,0,140,209_AL_.jpg" width=120 height=150 align:"right">
+
+<p>
+Director - Hitesh Bhatia<br>
+Writers -nHitesh Bhatia, Supratik Sen<br>
+Stars - Rishi Kapoor, Paresh Rawal, Juhi Chawla<br>
+A light-hearted coming-of-age story of a lovable 60-year-old-man.</p>
+
+<h4><a href="https://www.imdb.com/title/tt0454921/mediaviewer/rm2553318400/?ref_=tt_ov_i"> 6. PURSUIT OF HAPPYNESS</a></h4>
+
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.Ct_B4j56XDMolYfrNl64MQHaLH%26pid%3DApi&f=1&ipt=3ef94a9f4536329328037bd10a1cf7d1cc1c7887c928544192d19d7dccc01b04&ipo=images.jpg" width=120 height= 150 align:"right">
+
+<p>
+Director - Gabriele Muccino<br>
+Writer - Steve Conrad<br>
+Stars - Will Smith, Thandiwe Newton, Jaden Smith<br>
+A struggling salesman takes custody of his son as he's poised to begin a life-changing professional career.
+</p>
+
+<h4><a href="https://www.imdb.com/title/tt10872600/mediaviewer/rm3936939521/?ref_=tt_ov_i"> 7. SPIDER-MAN: NO WAY HOME</a></h4>
+
+<img src="https://upload.wikimedia.org/wikipedia/en/0/00/Spider-Man_No_Way_Home_poster.jpg" width=120 height=150 align:"right">
+<p>Director - Jon Watts<br>
+Writers - Chris McKenna, Erik Sommers, Stan Lee<br>
+Stars - Tom Holland, Zendaya, Benedict Cumberbatch<br>
+With Spider-Man's identity now revealed, Peter asks Doctor Strange for help.<br> When a spell goes wrong, dangerous foes from other worlds start to appear,<br> forcing Peter to discover what it truly means to be Spider-Man.</p>
+
+<h4><a href="https://www.imdb.com/title/tt8041270/mediaviewer/rm1074729217/?ref_=tt_ov_i">8. JURASSIC WORLD DOMINION</a></h4>
+
+<img src="https://www.filmibeat.com/img/226x100x283/popcorn/movie_posters/jurassicworlddominion-20220613153057-21055.jpg" width=120 height=150 align:"right">
+
+<p>
+Director - Colin Trevorrow<br>
+Writers - Emily Carmichael, Colin Trevorrow, Derek Connoly<br>
+Stars - Chris PrattBryce Dallas HowardLaura Dern<br>
+Four years after the destruction of Isla Nublar, Biosyn operatives attempt to track down Maisie Lockwood,<br> while Dr Ellie Sattler investigates a genetically engineered swarm of giant insects.</p>
+
+<h4><a href="https://www.imdb.com/title/tt9419884/mediaviewer/rm339811841/?ref_=tt_ov_i"> 9. DR. STRANGE IN THE MULTIVERSE OF MADNESS</a></h4>
+
+<img src="https://upload.wikimedia.org/wikipedia/en/1/17/Doctor_Strange_in_the_Multiverse_of_Madness_poster.jpg" width=120 height=150 align:"right">
+
+<p>
+Director - Sam Raimi<br>
+Writers - Michael Waldron, Stan Lee, Steve Ditko<br>
+Stars - Benedict Cumberbatch, Elizabeth Olsen, Chiwetel Ejiofor<br>
+Doctor Strange teams up with a mysterious teenage girl from his dreams who can travel across multiverses, <br>to battle multiple threats, including other-universe versions of himself, which threaten to wipe out <br> millions across the multiverse. They seek help from Wanda the Scarlet Witch, Wong and others.</p>
+
+<h4><a href="https://www.imdb.com/title/tt4859168/mediaviewer/rm1716491521/?ref_=tt_ov_i"> 10. THEN CAME YOU</a></h4>
+
+<img src="https://m.media-amazon.com/images/M/MV5BMWY1YjIxNWEtMjNhYi00OTFlLWE0ZmMtM2NhNGJjNjE2NGNkXkEyXkFqcGdeQXVyMjMwMzk5OTI@._V1_UY98_CR1,0,67,98_AL_.jpg" width=120 height=150 align:"right">
+
+<p>
+Director - Peter Hutchings<br>
+Writer - Fergal Rock<br>
+Stars - Asa Butterfield, Maisie Williams, Nina Dobrev<br>
+A hypochondriac working as an airport baggage handler is forced to confront his fears when a British teenager<br> with a terminal illness enlists him to help her carry out her eccentric bucket list.</p>
+<br>
+<br>
+<br>
+<br>
+<br>
+<a href="file:///C:/Users/DELL/OneDrive/Desktop/MEAN%20MERN/about%20us.html"><b>About Us</b></a>
+<a href="file:///C:/Users/DELL/OneDrive/Desktop/MEAN%20MERN/contact%20us.html"><b>Contact Us</b></a>
+<a href="file:///C:/Users/DELL/OneDrive/Desktop/MEAN%20MERN/upcoming%20movies.htm"><b>Upcoming Movies</b></a>
+</body>
+</head>
+</html>
